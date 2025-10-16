@@ -2,4 +2,6 @@
 
 Prima prova!
 
-per commit da computer
+per commit from computer
+
+quicktest
