@@ -5,3 +5,5 @@ Prima prova!
 per commit da computer
 
 quicktest
+
+ORA?
