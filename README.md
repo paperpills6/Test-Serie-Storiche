@@ -7,3 +7,5 @@ per commit da computer
 quicktest
 test
 ORA?
+
+Password tolta?
